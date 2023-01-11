@@ -5,7 +5,7 @@
 Basic implementations of convolutional neural networks and perceptron algorithms for an intrusion detection system. Implementation and testing was done using the Keras Tensorflow library as well as PyTorch, and the NSL-KDD data set. 
 
 ## Functionality
-- An intrusion detection system using machine learning algorithms can perform at a high level 24/7 with minimal oversight.
+- The main goal of this project was to use a machine learning based intrusion detection system with high performance to detect the unknown attack package. Intrusion classification was done with binary classification; multiclass classification was attempted but not effective.
 
 ## Tools
 - [PyTorch](https://pytorch.org/) Machine Learning Framework
